@@ -1,0 +1,63 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.36.0-Maidenhead">
+  <identifier>CPlanV33_1110_ge</identifier>
+  <parentidentifier></parentidentifier>
+  <language>EN</language>
+  <type>dataset</type>
+  <title>CPlanV33_1110_ge</title>
+  <abstract>The Gauteng Conservation Plan (C-Plan hereafter) Version 3 was produced in December 2010 through an analysis of biodiversity data collected for the Gauteng province as part of the Gauteng Biodiversity Gap Analysis project. The conservation plan was edited at three occassasions since then: In July 2011 C-Plan 3.1 was released, C-Plan Version 3.2 was released September 2011, and the final product, C-Plan Version 3.3 was released in October 2011. The conservation plan contains two different categories of areas: 1) Critical Biodiversity Areas (CBAs). These areas are further classified into irreplaceable-, important and protected areas. 2) Ecological Support Areas (ESAs). CBAs and ESAs will be incorporated into the National Bioregional Plan for South Africa.
+
+The purpose of the Conservation Plan is to identify and map areas that are of importance to biodiversity protection in Gauteng through a systematic and empirical conservation-planning programme, and to provide recommendations and policy strategies for the conservation and management of these areas.
+
+Data have been prepared with the ESRI family of GIS products and other tools. Final analyses were done within the ArcView-linked C-Plan Decision Support System, developed by the New South Wales National Parks and Wildlife Services in Australia. Data analysis followed the systematic conservation planning protocol developed by Margules &amp; Pressey (Margules, C.R. &amp; Pressey, R.L. 2000. Systematic conservation planning. Nature, 405, 243-253.) and is based on the principles of complementarity, efficiency, defensibility and flexibility, irreplaceability, retention, persistence and accountability. The first three areas classified as Critical Biodiversity Areas (CBAs) can be summarised as follows: (1) Irreplaceable Areas are essential in meeting targets set for the conservation of biodiversity in Gauteng. (2) Important Areas are for the conservation of biodiversity in Gauteng. (3) Reserved Areas include all existing level 1 and 2 protected areas. Level 1 protected areas are proclaimed in terms of relevant legislation specifically for the protection of biodiversity (or for the purposes of nature conservation) AND are subject to an ecological management plan with conservation of biodiversity as the primary management objective. ¹Margules, C.R. &amp; Pressey, R.L. (2000) Systematic conservation planning. Nature, 405, 243-253. Level 2 protected areas are proclaimed in terms of relevant legislation specifically for the protection of biodiversity (or for the purposes of nature conservation) OR are subject to an ecological management plan with conservation of biodiversity as the primary management objective. All versions of C-Plan 3 also includes ESAs (previously in a separate layer) that maps spatial surrogates for supporting ecological processes that are essential for the maintenance and generation of biodiversity in sensitive areas. Since C-Plan 3 was released in December 2010, discussions took place between the C-Plan 3 Team, Dr Stephen Holness and Michele Pfab. Some municipalities were apparently concerned about agricultural areas found in some CBAs. Agricultural areas were not included in habitat models, but agricultural areas and old lands are classified as "available" when C-Plan analyses are done. This means that they may be selected as CBAs especially by the following biodiversity features in C-Plan 3: bio-climatic regions, near-pristine quaternary catchments, fish catchment, primary vegetation (although an attempt was made to keep it "clean" using available data), wetlands and pan clusters. These areas however, are not only very sensitive for the sustainability of the biodiversity features mentioned, but also for surrounding bird habitat and it is ill advised to remove them from C-Plan. After careful consideration it was decided to reclassify agricultural areas found in CBAs (irreplaceable, important and reserved areas) to ESAs (ecological support areas). This will align C-Plan 3 better with the National Bioregional Plan for RSA soon to be published. C-Plan 3.1 released at the end of July 2011, contained the first round of changes made. It was realized that it needed further editing, so visual, manual checks/digitising were done during September 2011 for C-Plan 3.2 and all major agricultural areas previously classified as CBAs were classified as ESAs. Further edits were executed to remove hard transformed areas (built-up, mines, etc) that were picked up during this cleanup. After C-Plan 3.2 was released it was discovered that some CBAs became separated due to reclassification and removal of parts of planning units. This necessitated redoing attributes. This resulted in C-Plan 3.3. Transformed areas can unfortunately not all be addressed in real time, especially since Gauteng is such a fast developing province. Base data are already "old" when analyses for C-Plan starts. Hence it is very important to do ground-truthing for any projects that may involve C-Plan 3. Total accuracy cannot be guaranteed due to the nature of the data, but C-Plan Version 3.2 certainly is an improved product.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>Conservation Plan</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type>mailing address</type>
+      <address>P/Bag X369</address>
+      <city>Pretoria</city>
+      <administrativearea>Gauteng</administrativearea>
+      <postalcode>0001</postalcode>
+      <country>RSA</country>
+    </contactAddress>
+    <name>Gauteng Department Agriculture and Rural Development (GDARD)</name>
+    <organization>Gauteng Department Agriculture and Rural Development (GDARD)</organization>
+    <position></position>
+    <voice>+27 12 328 5144</voice>
+    <fax>086 657 2272</fax>
+    <email>Pieta.Compaan@gauteng.gov.za</email>
+    <role>Point of contact</role>
+  </contact>
+  <links>
+    <link format="" type="Local Area Network" url="file://\\VE00-PIETAC\C$\Data\ArcExplorer_Data\Geographic\Sensitive_ge\CPlanV33_1110_ge.shp" description="" size="" name="Shapefile" mimeType=""/>
+  </links>
+  <dates/>
+  <fees></fees>
+  <constraints type="Access">With the written permission of GDARD - conditions apply and a disclaimer has to be signed.</constraints>
+  <rights>Use of the Gauteng Conservation Plan (referred to as C-Plan 3.3) is restricted exclusively to the purpose for which it was requested and may not be used for any other purpose. The data may not be copied, reproduced, distributed, transmitted, given to, lent to or sold to any individual or organisation in any form or by any means, electronic or mechanical, including recording or by any information storage and retrieval system, nor may it be hired out or disposed of by way of trade in or be used by any individual or organisation to generate any form of income or profit. All rights are reserved. GDARD retains the copyright in and to the data as well as the right to recall the data in the event of any contravention of the conditions of use, or after completion of the project or use of the data for the purposes for which it was requested. Every effort is made to provide accurate, up to date and complete information. However, GDARD does not guarantee that the data will be accurate and correct at all times. Additionally, GDARD assumes no liability for the inaccuracy, incompleteness, or non usefulness of any information contained in the data. Neither does GDARD accept any responsibility for any loss, liabilities, claims, actions, proceedings, demands, costs, charges, fines, expenses injuries or penalties or other damage that may arise from reliance upon, recommendations or decisions made on the basis of any information obtained from the data.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial dimensions="2" crs="EPSG:4326" maxy="-25.13315800000000166" maxz="0" miny="-26.92382999999999882" minz="0" maxx="29.09735699999999881" minx="27.16446499999999986"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
